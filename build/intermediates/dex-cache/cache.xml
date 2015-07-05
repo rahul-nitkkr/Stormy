@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-af422e48039937bdafbfaf4a402029e6cf6b3ae3.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-3be2cc03b0c206516fce85f5a0b77c38f9372c59.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-82cbc7192bc9b1c33f43b52adb71a8af4e44709e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-7041cc4523200d44c2a4eb1825e7d3d4afc3c954.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-62999e769af6dc9d46ce4c8d8a8dfd3de9fb9bc8.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-1d1b9c032febf0dac7ae9281f0e17fdba18f5a42.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-6d4126a039d59dfbab083141dcf20536f94e50b8.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-13df26c8701e3584cb278a714d84e51bf211faf8.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-1d6487f8077850ee263030a66ffdffc6731ef523.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-1cbac3ab80524930a6f88de6f5733e40f2fc394d.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-409ea9e51643875134063affa0fbdd335e1ac0af.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-035834bb636d6e0b2c6433798a70a10a37a7b577.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-950d6ae9174f920eeaeb687460023e188187842e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-4056dac53d1aa9ce2e9baed2ca6f41679f27a763.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-437a605ae7e34db14861b71a427c3c2e9cbf0c54.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-0b60433c472c3f014c3537aeedf57b2faaf60c7f.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-d539b8a76c6b08ebf40956b62cdaf00462605dc7.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-8869ba71ff3f3239ecd5f35fcd5cd586ee85a6b8.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.3.0/1b355f73402020c5a0dcca58affc3ec3dfeabac1/okio-1.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b355f73402020c5a0dcca58affc3ec3dfeabac1">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/okio-1.3.0-1a6739b5d81e6b3530f803c7da41d9357c03842e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-2b935e96ad5b80cd94e25d95aa4ef7c035b0cdd0.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-fde93f36a322615b8f05de498929e73cae7ee8fc.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-cf9e867201df76a3304bb47aa5200d45ede41751.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-83731947c2b1a8a79f35992935574fc4114fd4a4.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-691aee2f666bbcd6f1f0c0c257d2bcbc5abb3cc9.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-06a3abcf8587fbc20f4ff60df0bedbba91db8ab3.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-3ed1034ced664a1bf972d5ef6cd7a142882d7310.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-3c0be1765236c7dc5d5087eca5f57845bb52f2b7.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.3.0/2e7bc7033dc2c8423e661224171b3133fb155b28/okhttp-2.3.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2e7bc7033dc2c8423e661224171b3133fb155b28">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/okhttp-2.3.0-38611bc203078b267bc0fc6299a914d7857ff910.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-0faf205e216ced4136e4d3453af0f1f730a385fd.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Stormy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.3.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="/Users/Apple/Downloads/Stormy/app/build/intermediates/pre-dexed/debug/classes-3daf1483452778d6c3e28f9fec55ef4dbf38c544.jar" />
+    </item>
+
+</items>

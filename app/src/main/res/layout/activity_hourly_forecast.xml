@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/bg_gradient"
+              android:paddingLeft="32dp"
+              android:paddingRight="32dp"
+              android:paddingTop="16dp"
+              android:paddingBottom="16dp"
+                >
+    <android.support.v7.widget.RecyclerView
+        android:layout_width = "match_parent"
+        android:layout_height = "match_parent"
+        android:id = "@+id/recyclerView" />
+
+</RelativeLayout>
